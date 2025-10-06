@@ -5,6 +5,7 @@
 [![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/EMUxSV9rrCg)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-ESP32-green.svg?style=for-the-badge&logo=espressif)](https://www.espressif.com/)
+[![Arduino](https://img.shields.io/badge/Arduino-Compatible-00979D?style=for-the-badge&logo=arduino)](https://www.arduino.cc/)
 
 ---
 
